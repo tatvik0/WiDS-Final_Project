@@ -77,6 +77,13 @@ The assignments focus on **NumPy, Pandas, data visualization, exploratory data a
 
 pip install -r requirements.txt
 
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+
+
 
 
 
