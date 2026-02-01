@@ -17,9 +17,6 @@ Seaborn
 
 Scikit-learn
 
-Jupyter Notebook
----
-
 ## Assignment 1: NumPy & Pandas Fundamentals
 
 **File:** `assignment1_Q.1_numpy.py` & `assignment1_Q.2_videogames.py`
